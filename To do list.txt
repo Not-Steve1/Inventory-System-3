@@ -1,0 +1,48 @@
+/*to do list
+     * create inventiry grid (done)
+     * add panels (done)
+     * dynamic inventory functions (done)
+     * 
+     * make test items (done)
+     * move items  (done)
+     * drop items (done)
+     * retrieve items (done)
+     * swap items (done)
+     * drag checking highlighting colors (done)
+     * rewrite color highlighting *too long/ hard to read* (done-ish) *****
+     * 
+     * make scroll list UI for items (done)
+     * item buttons (done)
+     * spawn item equip forn buttons (done)
+     * remove item button from list when putting item on grid (done)
+     * button object pool | button and item equip (done)
+     * drop items back to list (done)
+     * add  delete item panel (done)
+     * 
+     * add item stat **later
+     * add item stat overlay  (done **need polishing)
+     * 
+     * make a whole item class inheritance "weapon, armor"
+     * make the StatPanel dynamic sized when adding more stats
+     * add more item type, name and icons (done)
+     * 
+     * have item stat affect player stats *later*
+     * create item generator (done)
+     * make random item generator (done-ish) **needs more work after expanding item class and stats
+     * make item on grid glow green when no seletecItem (done)
+     * make button that adds a preset list of item to list
+     * 
+     * add sort list (done)
+     * rework add item to list in regards to sorting (done)
+     */
+
+    /*optionals
+     * quality will change backgroung color instead of text ***update make the change color into funtion later
+     * create odd shaped items *very hard. require rewrite of whole thing*
+     * add graphics
+     * item rotate
+     * add warning pop-up when deleting high quality items
+     * save/load function *hard/no knowledge*
+     * improve IntVector2 methods and parameters *ongoing*
+     * add sort grid *hard*
+     */
