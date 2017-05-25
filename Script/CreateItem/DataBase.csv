@@ -1,0 +1,19 @@
+GlobalID,CategoryID,CategoryName,TypeID,TypeName,SizeX,SizeY,SerialID
+0,0,Weapon,0,Axe,2,4,00
+1,0,Weapon,1,Bow,2,4,01
+2,0,Weapon,2,Dagger,1,2,02
+3,0,Weapon,3,Mace,2,3,03
+4,0,Weapon,4,Spear,1,4,04
+5,0,Weapon,5,Sword,2,3,05
+6,1,Offhand,0,Shield,2,3,10
+7,1,Offhand,1,Quiver,2,3,11
+8,1,Offhand,2,Focus,2,2,12
+9,2,Armour,0,Helmet,2,2,20
+10,2,Armour,1,Gloves,2,2,21
+11,2,Armour,2,Boots,2,2,22
+12,2,Armour,3,Body Armour,2,3,23
+13,3,Accessory,0,Ring,1,1,30
+14,3,Accessory,1,Belt,2,1,31
+15,3,Accessory,2,Amulet,1,1,32
+16,4,Potion,0,Life Potion,1,2,40
+17,4,Potion,1,Mana Potion,1,2,41
