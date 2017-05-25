@@ -30,7 +30,7 @@
      * create item generator (done)
      * make random item generator (done-ish) **needs more work after expanding item class and stats
      * make item on grid glow green when no seletecItem (done)
-     * make button that adds a preset list of item to list
+     * make button that adds a preset list of item to list (done)
      * 
      * add sort list (done)
      * rework add item to list in regards to sorting (done)
